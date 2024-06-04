@@ -48,7 +48,7 @@ const Navbar = async () => {
                     className: "hidden sm:flex items-center gap-1",
                   })}
                 >
-                  Create case
+                  Buat Casingmu
                   <ArrowRight className="ml-1.5 h-5 w-5" />
                 </Link>
               </>
@@ -80,7 +80,7 @@ const Navbar = async () => {
                     className: "hidden sm:flex items-center gap-1",
                   })}
                 >
-                  Create case
+                  Buat Casingmu
                   <ArrowRight className="ml-1.5 h-5 w-5" />
                 </Link>
               </>

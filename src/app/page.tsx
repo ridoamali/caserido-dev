@@ -101,7 +101,7 @@ export default function Home() {
               </div>
               <div className="text-lg leading-8">
                 <p>
-                  "Saya membeli casing disini sudah sejak 6 bulan dan masih bagus. <span className="p-0.5 bg-slate-800 text-white">Gambar jernih</span> dan kualitas tinggi. Casingnya juga nyaman di genggam. Terbaiklah pokoknya."
+                  "Awalnya saya ragu untuk beli casing disini, tapi saya memberanikan diri. Saya membeli casing disini sudah sejak 6 bulan dan masih bagus. Biasanya di toko lain, sudah pudar dan rusak. Tapi disini masih aman. <span className="p-0.5 bg-slate-800 text-white">Gambar jernih</span> dan kualitas tinggi. Casingnya juga nyaman di genggam. Terbaiklah pokoknya."
                 </p>
               </div>
               <div className="flex gap-4 mt-2">
@@ -127,8 +127,8 @@ export default function Home() {
               </div>
               <div className="text-lg leading-8">
                 <p>
-                  "Biasanya sih casing lain itu mudah berubah warna dan molor, tapi disini masih tahan {" "}
-                  <span className="p-0.5 bg-slate-800 text-white">bahkan setelah 1 tahun.</span>, Jangan ragu deh beli disini."
+                  "Bolak-balik saya sering beli casing hp online dan tidak ada satupun yang awet. Biasanya sih casing lain itu mudah berubah warna dan molor, tapi disini masih tahan {" "}
+                  <span className="p-0.5 bg-slate-800 text-white">bahkan setelah 1 tahun.</span>Pelayanan cepat, cs ramah, top deh pokoknya. Jangan ragu deh beli disini."
                 </p>
               </div>
               <div className="flex gap-4 mt-2">
