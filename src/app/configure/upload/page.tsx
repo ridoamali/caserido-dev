@@ -96,7 +96,7 @@ const Page = () => {
                 )}
               </div>
 
-              {isPending ? null : <p className="text-xs text-zinc-500">Max 4MB, PNG, JPG, JPEG</p>}
+              {isPending ? null : <p className="text-xs text-zinc-500">Max 4Mb, PNG, JPG, JPEG</p>}
             </div>
           )}
         </Dropzone>
