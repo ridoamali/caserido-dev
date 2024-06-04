@@ -23,20 +23,20 @@ export default function Home() {
                 Buat Momen Foto <span className="bg-cyan-600 px-2 text-white">Terbaikmu</span> Jadi Nyata
               </h1>
               <p className="mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap">
-                Capture your favorite memories with your own, <span className="font-semibold">one-of-one</span> phone case. Caserido allows you to protect your memories, not just your phone case.
+              Ingin jadikan setiap foto di <span className="font-semibold">Gallery</span> kamu tak terlupakan? Cetak aja di RidoCasing. Kini lebih mudah dan praktis.
               </p>
               <ul className="mt-8 space-y-2 text-left font-medium flex flex-col items-center sm:items-start">
                 <div className="space-y-2">
                   <li className="flex flex-gap-1.5 items-center text-left">
                     <Check className="h-5 w-5 shrink-0 text-cyan-600" />
-                    High-quality, durable material
+                    Kualitas Terbaik, Bahan Awet.
                   </li>
                   <li className="flex flex-gap-1.5 items-center text-left">
-                    <Check className="h-5 w-5 shrink-0 text-cyan-600" />5 year print guarantee
+                    <Check className="h-5 w-5 shrink-0 text-cyan-600" />Garansi 5 Tahun.
                   </li>
                   <li className="flex flex-gap-1.5 items-center text-left">
                     <Check className="h-5 w-5 shrink-0 text-cyan-600" />
-                    Modern iPhone models supported.
+                    Support Semua Jenis HP.
                   </li>
                 </div>
               </ul>
@@ -59,7 +59,7 @@ export default function Home() {
                     <Star className="h-4 w-4 text-cyan-600 fill-cyan-600" />
                   </div>
                   <p>
-                    <span className="font-semibold">1.250</span> happy customers
+                    <span className="font-semibold">1.250</span> pelanggan telah membuktikan
                   </p>
                 </div>
               </div>
@@ -82,11 +82,11 @@ export default function Home() {
         <MaxWidthWrapper className="flex flex-col items-center gap-16 sm:gap-32">
           <div className="flex flex-col lg:flex-row items-center gap-4 sm:gap-6">
             <h2 className="order-1 mt-2 tracking-tight text-center text-balance !leading-tight font-bold text-5xl md:text-6xl text-gray-900 ">
-              What our{" "}
+              Lihat Testimoni{" "}
               <span className="relative px-2">
-                customers <Icons.underline className="hidden sm:block pointer-events-none absolute inset-x-0 -bottom-6 text-cyan-500" />
+                Pelanggan <Icons.underline className="hidden sm:block pointer-events-none absolute inset-x-0 -bottom-6 text-cyan-500" />
               </span>{" "}
-              say
+              Kami
             </h2>
             <img src="/snake-2.png" alt="" className="w-24 order-0 lg:order-2" />
           </div>
@@ -101,17 +101,16 @@ export default function Home() {
               </div>
               <div className="text-lg leading-8">
                 <p>
-                  "The case feels durable and I even got a compliment on the design. Had the case for two and a half months now and <span className="p-0.5 bg-slate-800 text-white">the image is super clear</span>, on the case I had before,
-                  the image started fading into yellow-ish color after a couple weeks. Love it."
+                  "Saya membeli casing disini sudah sejak 6 bulan dan masih bagus. <span className="p-0.5 bg-slate-800 text-white">Gambar jernih</span> dan kualitas tinggi. Casingnya juga nyaman di genggam. Terbaiklah pokoknya."
                 </p>
               </div>
               <div className="flex gap-4 mt-2">
                 <img className="rounded-full h-12 w-12 object-cover" src="/users/user-1.png" alt="user" />
                 <div className="flex flex-col">
-                  <p className="font-semibold"> Jonathan </p>
+                  <p className="font-semibold"> Asep </p>
                   <div className="flex gap-1.5 items-center text-zinc-600">
                     <Check className="h-4 w-4 stroke-[3px] text-cyan-600" />
-                    <p className="text-sm">Verified Purchase</p>
+                    <p className="text-sm">Aslinya dua orang</p>
                   </div>
                 </div>
               </div>
@@ -128,17 +127,17 @@ export default function Home() {
               </div>
               <div className="text-lg leading-8">
                 <p>
-                  "I usually keep my phone together with my keys in my pocket and that led to some pretty heavy scratchmarks on all of my last phone cases. This one, besides a barely noticeable scratch on the corner,{" "}
-                  <span className="p-0.5 bg-slate-800 text-white">looks brand new after about half a year</span>, I dig it."
+                  "Biasanya sih casing lain itu mudah berubah warna dan molor, tapi disini masih tahan {" "}
+                  <span className="p-0.5 bg-slate-800 text-white">bahkan setelah 1 tahun.</span>, Jangan ragu deh beli disini."
                 </p>
               </div>
               <div className="flex gap-4 mt-2">
                 <img className="rounded-full h-12 w-12 object-cover" src="/users/user-4.jpg" alt="user" />
                 <div className="flex flex-col">
-                  <p className="font-semibold"> Josh </p>
+                  <p className="font-semibold"> Mas Purnomo </p>
                   <div className="flex gap-1.5 items-center text-zinc-600">
                     <Check className="h-4 w-4 stroke-[3px] text-cyan-600" />
-                    <p className="text-sm">Verified Purchase</p>
+                    <p className="text-sm">Asal Tegal</p>
                   </div>
                 </div>
               </div>
@@ -160,7 +159,7 @@ export default function Home() {
           <div className="mb-12 px-6 lg:px-8">
             <div className="mx-auto max-w-2xl sm:text-center">
               <h2 className="order-1 mt-2 tracking-tight text-center text-balance !leading-tight font-bold text-5xl md:text-6xl text-gray-900 ">
-                Upload your photo and get <span className="relative px-2 bg-cyan-600 text-white">your own case</span> now
+              Upload fotomu & dapatkan casingmu. <span className="relative px-2 bg-cyan-600 text-white">Sesimpel itu !</span> wow.
               </h2>
             </div>
           </div>
@@ -178,18 +177,18 @@ export default function Home() {
           <ul className="mx-auto mt-12 max-w-prose sm:text-large space-y-2 w-fit">
             <li className="w-fit">
               <Check className="h-5 w-5 text-cyan-600 inline mr-1.5 " />
-              High-Quality silicone material
+              Bahan dari Silicone Berkualitas
             </li>
             <li className="w-fit">
               <Check className="h-5 w-5 text-cyan-600 inline mr-1.5 " />
-              Scratch- and fingerprint resistant coating
+              Tahan Goresan dan Sidik Jari
             </li>
             <li className="w-fit">
               <Check className="h-5 w-5 text-cyan-600 inline mr-1.5 " />
-              Wireless charging compatible
+              Mendukung Wireless Charging
             </li>
             <li className="w-fit">
-              <Check className="h-5 w-5 text-cyan-600 inline mr-1.5 " />5 year print warranty
+              <Check className="h-5 w-5 text-cyan-600 inline mr-1.5 " />Garansi 5 Tahun !
             </li>
             {/* Tagline dan centang */}
             {/* Button komponen */}
@@ -201,7 +200,7 @@ export default function Home() {
                 })}
                 href="/configure/upload"
               >
-                Create Your Case Now
+                Buat Casingmu Sekarang
                 <ArrowRight className="h-4 w-4 ml-1.5" />
               </Link>
             </div>
